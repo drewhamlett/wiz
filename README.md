@@ -1,1 +1,1 @@
-MYSQL row parser for NodeJS
+MySQL row parser for NodeJS
